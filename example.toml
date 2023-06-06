@@ -1,0 +1,8 @@
+BotToken = "YOUR_BOT_TOKEN"
+ChatID = 0 #YOUR_CHAT_ID
+PagerDutyToken = "YOUR_PAGERDUTY_API_TOKEN"
+PagerDutyUserID = "YOUR_PAGERDUTY_USER_ID"
+
+[Servers]
+"Server1" = "server1:port1"
+"Server2" = "server2:port2"
